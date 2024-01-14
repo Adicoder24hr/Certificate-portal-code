@@ -1,0 +1,158 @@
+.issue {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .issue .div {
+    background-color: #ffffff;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .issue .vector {
+    position: absolute;
+  width: 66px;
+  height: 104px;
+  top: 7px;
+  left: 0;
+  }
+  
+  .issue .img {
+    position: absolute;
+  width: 64px;
+  height: 164px;
+  top: 353px;
+  left: 0;
+  }
+  
+  .issue .vector-2 {
+    position: absolute;
+    width: 143px;
+    height: 174px;
+    top: 117px;
+    left: 88px;
+  }
+  
+  .issue .vector-3 {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 573px;
+    left: 75px;
+  }
+  
+  .issue .vector-4 {
+    position: absolute;
+    width: 82px;
+    height: 178px;
+    top: 519px;
+    left: 1421px;
+  }
+  
+  .issue .overlap {
+    height: 274px;
+    top: 114px;
+    left: 1295px;
+    position: absolute;
+    width: 206px;
+  }
+  
+  .issue .overlap-group {
+    height: 215px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    width: 206px;
+  }
+  
+  .issue .vector-5 {
+    position: absolute;
+    width: 102px;
+    height: 103px;
+    top: 112px;
+    left: 0;
+  }
+  
+  .issue .vector-6 {
+    position: absolute;
+    width: 125px;
+    height: 154px;
+    top: 0;
+    left: 81px;
+  }
+  
+  .issue .vector-7 {
+    position: absolute;
+    width: 71px;
+    height: 71px;
+    top: 203px;
+    left: 127px;
+  }
+  
+  .issue .vector-8 {
+    position: absolute;
+    width: 46px;
+    height: 68px;
+    top: 435px;
+    left: 1314px;
+  }
+  
+  .issue .vector-9 {
+    position: absolute;
+    width: 47px;
+    height: 41px;
+    top: 0;
+    left: 1323px;
+  }
+  
+  .issue .frame {
+    gap: 14.64px;
+    position: absolute;
+    top: 234px;
+    left: 593px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+}
+  
+  .issue .you-have-not-wrapper {
+    gap: 15.41px;
+    position: relative;
+    flex: 0 0 auto;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .issue .you-have-not {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.91px;
+    font-family: "Google Sans-Medium", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 21.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28.4px;
+  }
+  
+  .issue .text-wrapper {
+    font-weight: 500;
+    color: #363636;
+  }
+  
+  .issue .span {
+    font-family: "Google Sans-Regular", Helvetica;
+    color: #616161;
+  }
+  
+  .issue .text-wrapper-2 {
+    font-weight: 500;
+    color: #616161;
+  }
+  

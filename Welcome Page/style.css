@@ -1,0 +1,198 @@
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .div {
+    background-color: #ffffff;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  }
+  
+  .home .frame {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14.64px;
+    position: absolute;
+    top: 198px;
+    left: 635px;
+}
+  
+  .home .frame-2 {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15.41px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+  
+  .home .bracket-logo {
+    position: relative;
+    width: 143.19px;
+    height: 70.69px;
+    object-fit: cover;
+  }
+  
+  .home .welcome-to-GDSC {
+    position: relative;
+    width: fit-content;
+    font-family: "Google Sans-Medium", Helvetica;
+    font-weight: 400;
+    color: #363636;
+    font-size: 18.9px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 28.4px;
+  }
+  
+  .home .text-wrapper {
+    font-weight: 500;
+  }
+  
+  .home .span {
+    font-family: "Google Sans-Regular", Helvetica;
+  }
+  
+  .home .frame-wrapper {
+    position: relative;
+    width: 93.77px;
+    height: 32.19px;
+    background-color: #4285f4;
+    border-radius: 4.78px;
+    overflow: hidden;
+}
+  
+.home .frame-3 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.44px;
+  position: relative;
+  top: 6px;
+  left: 16px;
+}
+  
+  .home .text-wrapper-2 {
+    position: relative;
+    width: fit-content;
+    margin-top: -0.48px;
+    font-family: "Google Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 13px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 19.5px;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  
+  .home .rectangle {
+    position: relative;
+    width: 5.44px;
+    height: 9.4px;
+    margin-right: -0.68px;
+  }
+  
+  .home .vector {
+    position: absolute;
+    width: 66px;
+    height: 104px;
+    top: 0;
+    left: 0;
+}
+  
+  .home .img {
+    position: absolute;
+    width: 143px;
+    height: 174px;
+    top: 112px;
+    left: 52px;
+}
+  
+.home .vector-2 {
+  position: absolute;
+  width: 64px;
+  height: 164px;
+  top: 328px;
+  left: 0;
+}
+  
+  .home .vector-3 {
+    position: absolute;
+    width: 84px;
+    height: 84px;
+    top: 549px;
+    left: 40px;
+}
+  
+  .home .vector-4 {
+    position: absolute;
+    width: 82px;
+    height: 178px;
+    top: 494px;
+    left: 1430px;
+}
+  
+  .home .overlap {
+    height: 274px;
+    top: 61px;
+    left: 686px;
+    position: absolute;
+    width: 206px;
+  }
+  
+  .home .overlap-group {
+    height: 215px;
+    top: 0;
+    left: 619px;
+    position: absolute;
+    width: 206px;
+}
+  
+  .home .vector-5 {
+    position: absolute;
+    width: 102px;
+    height: 103px;
+    top: 112px;
+    left: 0;
+  }
+  
+  .home .vector-6 {
+    position: absolute;
+    width: 125px;
+    height: 154px;
+    top: 0;
+    left: 81px;
+  }
+  
+  .home .vector-7 {
+    position: absolute;
+    width: 71px;
+    height: 71px;
+    top: 260px;
+    left: 729px;
+}
+  
+.home .vector-8 {
+  position: absolute;
+  width: 46px;
+  height: 68px;
+  top: 407px;
+  left: 1317px;
+}
+  
+  .home .vector-9 {
+    position: absolute;
+    width: 47px;
+    height: 41px;
+    top: 0;
+    left: 1314px;
+}
+  
